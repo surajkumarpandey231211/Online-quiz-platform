@@ -1,6 +1,5 @@
 # Online-quiz-platform
 
-# Project Name
 
 Brief description of your project. You can also include a logo or a banner image here.
 
@@ -47,7 +46,7 @@ Provide step-by-step instructions on how to install and configure your project.
 bash
 
 # Clone the repository
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/https://github.com/surajkumarpandey231211/Online-quiz-platform/yourproject.git
 
 # Change directory
 cd yourproject
@@ -69,11 +68,11 @@ Visit http://localhost:3000 in your web browser.
 
 vbnet
 
-## Contributing
+# Contributing
 
 Tell others how they can contribute to your project. This could include guidelines for reporting issues, proposing new features, or submitting pull requests.
 
-## License
+# License
 
 State the license under which your project is released. For open-source projects, it's common to use licenses like MIT, Apache, or GPL.
 
