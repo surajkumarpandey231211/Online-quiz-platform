@@ -1,6 +1,6 @@
 # Online-quiz-platform
 
-![Example Image](/quiz.png)
+![Example Image](quiz.png)
 
 Brief description of your project. You can also include a logo or a banner image here.
 
