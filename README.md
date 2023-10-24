@@ -47,17 +47,13 @@ Provide step-by-step instructions on how to install and configure your project.
 bash
 
 # Clone the repository
-git clone https://github.com/https://github.com/surajkumarpandey231211/Online-quiz-platform/yourproject.git
+git clone https://github.com/surajkumarpandey231211/Online-quiz-platform.git
 
 # Change directory
-cd yourproject
+cd Online-quiz-platform
 
 # Install dependencies
 npm install
-Usage
-Explain how to use your project. Provide code examples, screenshots, or gifs if they can help demonstrate its functionality.
-
-markdown
 
 Example:
 
@@ -67,22 +63,3 @@ To start the development server, run:
 npm start
 Visit http://localhost:3000 in your web browser.
 
-vbnet
-
-# Contributing
-
-Tell others how they can contribute to your project. This could include guidelines for reporting issues, proposing new features, or submitting pull requests.
-
-# License
-
-State the license under which your project is released. For open-source projects, it's common to use licenses like MIT, Apache, or GPL.
-
-```markdown
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
-Acknowledgments
-You can use this section to credit individuals or projects that inspired or helped your project.
-
-Contact
-Provide your contact information or ways to reach out if someone has questions or feedback about your project.
-
-Feel free to customize this template to fit your project's specific needs. A well-documented README can help other developers understand, use, and contribute to your project more effectively.
